@@ -1,0 +1,23 @@
+.parent-box {
+  background-color: lightgreen;
+  border-radius: 5px;
+  padding: 1px 10px;
+}
+
+.child-box {
+  color: white;
+  background-color: green;
+  border-radius: 5px;
+  border: 2px black solid;
+  padding: 10px 10px;
+  margin: 10px;
+}
+
+.grand-child-box {
+  color: white;
+  background-color: rgb(2, 100, 2);
+  border-radius: 5px;
+  border: 2px black dotted;
+  padding: 10px 10px;
+  margin: 10px;
+}
